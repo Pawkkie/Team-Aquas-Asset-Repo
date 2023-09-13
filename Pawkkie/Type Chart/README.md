@@ -3,5 +3,4 @@
 - Pawkkie
 
 ![TypeChart.png](TypeChart.png)
-
 ![TypeChartDarkMode.png](TypeChartDarkMode.png)
