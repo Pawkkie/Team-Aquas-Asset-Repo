@@ -1,6 +1,6 @@
 ## HGSS Trainer Sprites
 - Overworld Sprites
-- Ulithium_Dragon
+- Delta231
 
 ![ace_trainer_f.png](ace_trainer_f.png)
 ![ace_trainer_m.png](ace_trainer_m.png)
