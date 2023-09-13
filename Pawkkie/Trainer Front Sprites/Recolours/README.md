@@ -11,7 +11,7 @@
 ![guard_m_pp.png](guard_m_pp.png)
 ![rocket_grunt_f_pp.png](rocket_grunt_f_pp.png)
 
-## ORAS Hex Maniac Recolours
+## ORAS Hex Maniac Recolour
 - Trainer front sprite
 - Pawkkie's recolours to get down to 16 colour palettes
 - Credit to KinectedWires for the original sprite
