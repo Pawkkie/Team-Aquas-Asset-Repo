@@ -40,7 +40,7 @@ Please remeber that if any of the work you submit is not entirely made by you fr
 There are two main ways of submitting assets, pull requests and Discord submissions. Pull requests are preferred if possible.
 
 ## Pull Requests
-Fork this repository, and submit any assets you have / find / make as pull requests. Please ensure that you match the repository's organizational structure, and **_include README.md's crediting the original creators** as applicable.
+Fork this repository, and submit any assets you have / find / make as pull requests. Please ensure that you match the repository's organizational structure, and **_include README.md's crediting the original creators_** as applicable.
 
 Please consider including preview images / soundbites of your assets in the README.md file, so repository users can enjoy all your work without having to open up every single file individually! 
 
