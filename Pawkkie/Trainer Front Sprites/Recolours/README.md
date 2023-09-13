@@ -1,4 +1,4 @@
-## Various Palladium Recolours
+## Palladium Recolours
 - Trainer front sprite
 - Pawkkie's recolours to get down to 16 colour palettes
 - Credit to the Palladium team for the original sprites, see their folder for details
@@ -10,3 +10,10 @@
 ![guard_f_pp.png](guard_f_pp.png)
 ![guard_m_pp.png](guard_m_pp.png)
 ![rocket_grunt_f_pp.png](rocket_grunt_f_pp.png)
+
+## ORAS Hex Maniac Recolours
+- Trainer front sprite
+- Pawkkie's recolours to get down to 16 colour palettes
+- Credit to KinectedWires for the original sprite
+
+![hex_maniac_oras.png](hex_maniac_oras.png)
