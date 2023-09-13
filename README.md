@@ -2,7 +2,7 @@
 
 ## What is Team Aqua's Asset Repo?
 
-This is a collection of **_free to use_** assets that are intended to be used for Generation 3 Pokémon decomp hacking, initially created and managed by members of the [Team Aqua's Hideout](https://discord.gg/sNNCZxcXnA) Discord server.
+This is a collection of **_free to use_** assets that are intended to be used for Generation 3 Pokémon decomp hacking, initially created and managed by members of the [Team Aqua's Hideout](https://discord.gg/sNNCZxcXnA) Discord server. Note that we recommend forking this repository so you can easily receive and submit new assets; see the [wiki](https://github.com/Pawkkie/pokeemerald-expansion/wiki/Setting-Up,-Updating,-and-Contributing-to-the-Repository#setting-up-the-repository) for instructions.
 
 ## What sort of assets?
 Anything and everything that might be of interest to romhackers! This includes but is not limited to:
@@ -38,6 +38,8 @@ Please remeber that if any of the work you submit is not entirely made by you fr
 
 # How can I submit assets?
 There are two main ways of submitting assets, pull requests and Discord submissions. Pull requests are preferred if possible.
+
+If you don't know what a pull request is or are unfamiliar with GitHub, please read the repository's [wiki](https://github.com/Pawkkie/pokeemerald-expansion/wiki/Setting-Up,-Updating,-and-Contributing-to-the-Repository#setting-up-the-repository) to get set up!
 
 ## Pull Requests
 Fork this repository, and submit any assets you have / find / make as pull requests. Please ensure that you match the repository's organizational structure, and **_include README.md's crediting the original creators_** as applicable.
