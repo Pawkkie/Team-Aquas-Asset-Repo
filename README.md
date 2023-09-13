@@ -23,6 +23,8 @@ Anything and everything that might be of interest to romhackers! This includes b
     - The original creator(s) of an asset if it was part of a larger scale project
     - The original creator of an asset that has been modified in any way (recoloured / resized etc.)
 
+Many folders containing assets will also include preview images of the assets. Note that these previews are likely to be a bit blurry in this form due to markdown stretching etc., so you'll have to open the files themselves in a better image viewer to see them in sharper resolution.
+
 ## What can I contribute?
 Any assets you've made personally, or any assets you've found that are free to use, **_provided they are submitted alongside credit to their original creator._**
 
