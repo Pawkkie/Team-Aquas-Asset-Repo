@@ -4,6 +4,8 @@
 
 This is a collection of **_free to use_** assets that are intended to be used for Generation 3 Pokémon decomp hacking, initially created and managed by members of the [Team Aqua's Hideout](https://discord.gg/sNNCZxcXnA) Discord server. Note that we recommend forking this repository so you can easily receive and submit new assets; see the [wiki](https://github.com/Pawkkie/Team-Aquas-Asset-Repo/wiki) for instructions.
 
+Want to contribute? Ping @Pawkkie in the Discord!
+
 ## What sort of assets?
 Anything and everything that might be of interest to romhackers! This includes but is not limited to:
 - Music
