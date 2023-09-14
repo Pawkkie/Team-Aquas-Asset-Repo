@@ -60,5 +60,8 @@ Send your asset or a link to it to the appropriate channel in [the Discord serve
 - Type of asset (song, overworld sprite, trainer portrait, etc.)
 
 ## Who maintains the project?
-Huge thanks to anyone who's ever helped maintain the repository! Current list of maintainers are:
+Huge thanks to anyone who's ever helped maintain the repository or submitted assets! 
+
+Current list of maintainers are:
 @Pawkkie
+@PCG06
