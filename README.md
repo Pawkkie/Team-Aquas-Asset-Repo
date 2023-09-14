@@ -25,6 +25,7 @@ Anything and everything that might be of interest to romhackers! This includes b
 - Any folder that includes an actual asset that is not **_exclusively_** the work of one individual **_must supply a README.md_** indicating:
     - The original creator(s) of an asset if it was part of a larger scale project
     - The original creator of an asset that has been modified in any way (recoloured / resized etc.)
+- Feature branches are on their own [wiki page](https://github.com/Pawkkie/Team-Aquas-Asset-Repo/wiki/Feature-Branches)
 
 Many folders containing assets will also include preview images of the assets. Note that these previews are likely to be a bit blurry in this form due to markdown stretching etc., so you'll have to open the files themselves in a better image viewer to see them in sharper resolution.
 
