@@ -8,6 +8,7 @@ Want to contribute? Ping @Pawkkie in the Discord!
 
 ## What sort of assets?
 Anything and everything that might be of interest to romhackers! This includes but is not limited to:
+- Feature Branches, on the [wiki](https://github.com/Pawkkie/Team-Aquas-Asset-Repo/wiki/Feature-Branches)
 - Music
 - Sound effects
 - Sprites
@@ -31,6 +32,7 @@ Many folders containing assets will also include preview images of the assets. N
 Any assets you've made personally, or any assets you've found that are free to use, **_provided they are submitted alongside credit to their original creator._**
 
 In addition to everything in the initial list, I want to specify that alterations on existing work are also welcome! This includes but is not limited to:
+- Links to feature branches we can host on the [wiki](https://github.com/Pawkkie/Team-Aquas-Asset-Repo/wiki/Feature-Branches)
 - Sprite recolours / resizes
 - New interpretations of existing Pokémon sprites
 - Riffs on existing Pokémon music
@@ -39,7 +41,7 @@ In addition to everything in the initial list, I want to specify that alteration
 Please remeber that if any of the work you submit is not entirely made by you from scratch, you must **_include credit to the original creator of your source material._**
 
 # How can I submit assets?
-There are two main ways of submitting assets, pull requests and Discord submissions. Pull requests are preferred if possible.
+There are two main ways of submitting assets, pull requests and Discord submissions. Pull requests are preferred if possible. If you're submitting a Feature Branch, just send us a link on Discord!
 
 If you don't know what a pull request is or are unfamiliar with GitHub, please read the repository's [wiki](https://github.com/Pawkkie/Team-Aquas-Asset-Repo/wiki) to get set up!
 
