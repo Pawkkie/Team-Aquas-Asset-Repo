@@ -4,4 +4,4 @@
 - Credit to the aveontrainer for the original sprites
 - DeviantArt link: https://www.deviantart.com/aveontrainer
 
-![hex_maniac_oras.png](hex_maniac_oras.png)
+![hex_maniac.png](hex_maniac.png)
