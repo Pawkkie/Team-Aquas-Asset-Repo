@@ -17,3 +17,10 @@
 - Credit to KinectedWires for the original sprite
 
 ![hex_maniac_oras.png](hex_maniac_oras.png)
+
+## RSE Red and Leaf Recolours
+- RSE changed the back sprite colour of Red and Leaf from FRLG
+- This changes the front sprites to match that colour, which also matches the OW sprites
+
+![leaf_rse.png](leaf_rse.png)
+![red_rse.png](red_rse.png)
