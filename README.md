@@ -20,8 +20,8 @@ Anything and everything that might be of interest to romhackers! This includes b
 - Anything else!
 
 ## How is everything organized?
-- First level folders are organized by **creator or project,** so individual creators have the easiest time maintaining and adding to their own body of work and crediting the appropriate people is easier.
-- Second level folders, if they exist, are broadly organized by **asset type,** at the discretion of the contributor / maintainer (ie. Tilesets, Overworld Sprites, etc.)
+- First level folders are organized by **asset type**
+- Second level folders are organized by **creator or project,** so individual creators have the easiest time maintaining and adding to their own body of work and crediting the appropriate people is easier.
 - Any folder that includes an actual asset that is not **_exclusively_** the work of one individual **_must supply a README.md_** indicating:
     - The original creator(s) of an asset if it was part of a larger scale project
     - The original creator of an asset that has been modified in any way (recoloured / resized etc.)
