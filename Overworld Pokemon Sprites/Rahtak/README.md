@@ -13,6 +13,7 @@ Optional text file snippets from my own project:
 - object_event_graphics_info_followers.h configs and associated object_event_pic_tables.h structs 
 - palette_table.h and shiny_palette_table.h 
 - graphics.h for gFollowMonPalette and gFollowMonShinyPalette consts
+- pokemon.h for pointing to follow palettes
 
 If any of the sprites are broken or their palettes are broken, ping me on Discord (rahtak) and I will get around to fixing it
 
