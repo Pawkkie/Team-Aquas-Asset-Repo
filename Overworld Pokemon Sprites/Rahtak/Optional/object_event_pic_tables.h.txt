@@ -8771,6 +8771,15 @@ static const struct SpriteFrameImage sPicTable_basculegion_female[] = {
     overworld_frame(gObjectEventPic_basculegion_female, 4, 4, 5)
 };
 
+static const struct SpriteFrameImage sPicTable_sneasel_hisuian[] = {
+    overworld_frame(gObjectEventPic_sneasel_hisuian, 4, 4, 0),
+    overworld_frame(gObjectEventPic_sneasel_hisuian, 4, 4, 1),
+    overworld_frame(gObjectEventPic_sneasel_hisuian, 4, 4, 2),
+    overworld_frame(gObjectEventPic_sneasel_hisuian, 4, 4, 3),
+    overworld_frame(gObjectEventPic_sneasel_hisuian, 4, 4, 4),
+    overworld_frame(gObjectEventPic_sneasel_hisuian, 4, 4, 5)
+};
+
 static const struct SpriteFrameImage sPicTable_sneasler[] = {
     overworld_frame(gObjectEventPic_sneasler, 4, 4, 0),
     overworld_frame(gObjectEventPic_sneasler, 4, 4, 1),

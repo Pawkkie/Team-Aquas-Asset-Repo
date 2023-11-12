@@ -901,6 +901,7 @@
     SPECIES_PAL(URSALUNA, gFollowMonPalette_Ursaluna),
     SPECIES_PAL(BASCULEGION, gFollowMonPalette_Basculegion),
     SPECIES_PAL(BASCULEGION_FEMALE, gFollowMonPalette_BasculegionFemale),
+    SPECIES_PAL(SNEASEL_HISUIAN, gFollowMonPalette_SneaselHisuian),
     SPECIES_PAL(SNEASLER, gFollowMonPalette_Sneasler),
     SPECIES_PAL(OVERQWIL, gFollowMonPalette_Overqwil),
     SPECIES_PAL(ENAMORUS, gFollowMonPalette_Enamorus),
