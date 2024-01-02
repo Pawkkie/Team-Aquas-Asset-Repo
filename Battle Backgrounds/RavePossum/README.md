@@ -6,7 +6,7 @@ These are a set of battle backgrounds for Emerald based on combining the aesthet
 
 Key points:
 
- - These are ready to drag and drop straight into an Emerald decomp hack with a few code changes, which are listed below. Otherwise you can modify the tiles and palettes yourself.
+ - These are ready to drag and drop straight into an Emerald decomp hack with a few code changes, which are listed below. Otherwise all you have to do is replace the contents of your graphics/battle_terrain folder with the one here and then run ``make clean`` before building again.
  - They have been modified in size and position from Ruki's originals so that they fit in the screen and the Pokemon shadows land in the right place.
  - **These are free to use and modify for anyone, but please credit RavePossum and Ruki**.
 
