@@ -1,0 +1,34 @@
+hyo's reworked FRLG-styled RSE overworld sprites:
+
+based on Poffin_Case's sprites, reformatted and indexed by hyo
+
+Free to use, but please give credit to both: hyo and Poffin_Case!
+
+-Brendan, May, Wally, Scott, and a few other sprites were entirely re-sprited from scratch by me, hyo.
+	-Brendan and May include all new trainer and backsprites that fit the look of FRLG (Brendan also includes an alternate trainer sprite based on his official Sugimori artwork if you want to use something refreshing and new! May's will be added in the future.)
+	-Brendan and May include new Pokenav/Region map icons that match the ones from FRLG.
+	-Brendan and May (Both the Emerald and RS versions) also include .pal files. These are for the overworld/object_events sprites only, NOT the trainer/back sprites (those use the vanilla palettes). All other NPC's use the vanilla palettes.
+-A handful of the sprites were reworked or edited to better match the styles and proportions of FRLG, using Poffin Case's sprites as a base.
+-The rest were left mostly unedited, just properly formatted and indexed with vanilla RSE palettes for drag/drop insertion by me.
+
+-Files can be drag/dropped, but some files in the following folders must be moved into their respective directories:
+	-brendan (.pal files, back pic, front pic, icon)
+	-may (.pal files, back pic, front pic, icon)
+	-ruby_sapphire_brendan (.pal files, back pic)
+	-ruby_sapphire_may (.pal files, back pic)
+
+==================================================================================================================================================
+
+hyo's other misc sprites:
+
+Free to use, but please give credit to: hyo
+
+-A few assets for Classic Red and Gold sprites included, but more will be added in the future!
+
+==================================================================================================================================================
+
+If you have any questions, reach out to me on:
+
+Discord: hyoart
+Twitter: @hyo_oppa
+
