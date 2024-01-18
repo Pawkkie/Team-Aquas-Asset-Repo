@@ -1,9 +1,9 @@
 
 ## hyo's reworked FRLG-styled RSE overworld sprites
 
-This is based on Poffin_Case's sprites, but reformatted and indexed by hyo
+This set is based on Poffin_Case's sprites, but edited, reformatted, and indexed by hyo.
 
-Free to use, but please give credit to both: hyo and Poffin_Case!
+If used, please give credit to both: hyo and Poffin_Case!
 
 - Brendan, May, Wally, Scott, and a few other sprites were entirely re-sprited from scratch by me.
 	- Brendan and May folders include new Pokenav/Region map icons that match the ones from FRLG. Make sure to place them in the correct directory of your repo.
