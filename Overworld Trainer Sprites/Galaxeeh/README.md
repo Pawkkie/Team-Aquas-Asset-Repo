@@ -7,8 +7,8 @@ Overworld Trainer Sprite Resizes
 
 
 ![bugsy.png](bugsy.png)  ![colress.png](colress.png)  ![cyrus.png](cyrus.png)  ![galacticf.png](galacticf.png)
-![galacticm.png](cyrus.png)  ![galacticm.png](cyrus.png)  ![ghetsis.png](ghetsis.png)  ![giovanni.png](giovanni.png)
+![galacticm.png](galacticm.png)  ![ghetsis.png](ghetsis.png)  ![giovanni.png](giovanni.png) ![zinzolin.png](zinzolin.png)
 ![jupiter.png](jupiter.png)  ![mars.png](mars.png)  ![n.png](n.png)  ![nessa.png](nessa.png)
-![plasmagruntfemale.png](plasmagruntfemale.png)  ![plasmagruntmale.png](plasmagruntmale.png)  ![rocketgruntf.png](rocketgruntf.png)  ![rocketgruntm.png](rocketgruntm.png)
-![roxie.png](roxie.png)  ![saturn.png](saturn.png)  ![zinzolin.png](zinzolin.png)
+![PlasmaGruntFemale.png](PlasmaGruntFemale.png)  ![PlasmaGruntMale.png](PlasmaGruntMale.png)  ![rocketgruntf.png](rocketgruntf.png)  ![rocketgruntm.png](rocketgruntm.png)
+![roxie.png](roxie.png)  ![saturn.png](saturn.png)  
 
