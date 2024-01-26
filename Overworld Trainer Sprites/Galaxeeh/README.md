@@ -5,6 +5,9 @@ Overworld Trainer Sprite Resizes
 - Credits to UlithiumDragon for Roxie
 - Credits to ebuddy/Silentninja for Rocket Grunt M/F and Giovanni
 
+*Plasma grunts share a singular pallet
+*Rocket grunts share a singular pallet
+
 
 ![bugsy.png](bugsy.png)  ![colress.png](colress.png)  ![cyrus.png](cyrus.png)  ![galacticf.png](galacticf.png)
 ![galacticm.png](galacticm.png)  ![ghetsis.png](ghetsis.png)  ![giovanni.png](giovanni.png) ![zinzolin.png](zinzolin.png)
