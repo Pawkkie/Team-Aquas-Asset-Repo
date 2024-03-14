@@ -6,4 +6,4 @@ Please credit as **"PurrfectDoodle / Eva"** if you use this in your project.
 
 Result:
 
-[Screenshot](./confused-psyducks.png)
+![Screenshot](./confused-psyducks.png)
