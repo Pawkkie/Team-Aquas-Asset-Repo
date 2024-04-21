@@ -2,7 +2,7 @@
 
 Contents:
 - Compilation of overworld sprites for most gen 1 to 8 (including PLA) Pokémons, formatted for Merrp's (https://github.com/aarant/pokeemerald) follower system.
-- Palettes for the mons (Shiny pals not included mons past gen 6, most shiny pals are just duplicates of normal pal past Decudieye)
+- Palettes for the mons (Shiny pals not included mons after gen 7, most shiny pals are just duplicates of normal pal after Melmetal)
 
 Missing:
 - Many mons with a ton of forms such as Alcremie might be missing
