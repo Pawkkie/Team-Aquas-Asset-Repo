@@ -1,0 +1,1 @@
+Recolored GSC apricorn/berry tree. Includes OG 1x1 and an 1x2 version. Uses the RSE cuttable tree pal (PALSLOT\_NPC\_3).
