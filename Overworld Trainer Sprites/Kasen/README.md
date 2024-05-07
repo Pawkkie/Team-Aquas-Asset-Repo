@@ -7,7 +7,7 @@
 
 ![iris.png](iris.png)
 
-![jasmine_ow.png](jawmine_ow.png)
+![jasmine_ow.png](jasmine_ow.png)
 
 ![old_man.png](old_man.png)
 
