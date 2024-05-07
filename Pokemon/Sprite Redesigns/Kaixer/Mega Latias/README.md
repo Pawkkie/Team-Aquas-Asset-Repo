@@ -3,7 +3,7 @@
 Don't forget to also change the palette with this one!
 
 
-![MLatias.png](MLaties.png)
+![MLatias.png](MLatias.png)
 
 ![MLatiasAnim.gif](MLatias.gif)
 
