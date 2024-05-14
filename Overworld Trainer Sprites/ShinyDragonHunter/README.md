@@ -6,6 +6,6 @@
 
 ![little_girl.png](little_girl.png)
 
-![scout_f.png](scout.f.png)
+![scout_f.png](scout_f.png)
 
 ![scout_m.png](scout_m.png)
