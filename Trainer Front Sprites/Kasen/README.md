@@ -12,3 +12,9 @@
 ![trainer_bw_ace_trainer_f.png](trainer_bw_ace_trainer_f.png)
 
 ![trainer_bw_ace_trainer_m.png](trainer_bw_ace_trainer_m.png)
+
+![skyla.png](skyla.png)
+
+![volkner.png](volkner.png)
+
+![jasmine.png](jasmine.png)
