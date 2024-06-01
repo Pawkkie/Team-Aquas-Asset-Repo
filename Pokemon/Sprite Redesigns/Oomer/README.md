@@ -10,3 +10,5 @@
 ![clefable.png](clefable.png)
 
 ![phanpy.png](phanpy.png)
+
+![piplup.png](piplup.png)
