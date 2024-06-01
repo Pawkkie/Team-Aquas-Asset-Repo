@@ -6,3 +6,7 @@
 ![delcatty.png](delcatty.png)
 
 ![luvdisc.png](luvdisc.png)
+
+![clefable.png](clefable.png)
+
+![phanpy.png](phanpy.png)
