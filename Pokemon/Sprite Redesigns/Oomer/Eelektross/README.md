@@ -1,5 +1,5 @@
 ## Eelektross
-- Credit Oomer and sourapple for use
+- Credit Oomer and SourApple for use
 
 ![front.png](front.png)
 
