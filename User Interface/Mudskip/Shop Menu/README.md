@@ -4,8 +4,8 @@
 
 - User Interface.
 - A modified version of the Shop Menu that uses dark theme colors and has a scrolling bg replacing the overworld view.
-  - Implementing without the scrolling bg is possible but the user must handle that on their own as this menu is best with the scrolling bg.
-- **Please read the Needed Changes section below to properly integrate these.**
+  - **WARNING:** Implementing without the scrolling bg is likely possible but you must handle that on your own as this menu is best with the scrolling bg.
+- **Please read the Needed Changes section below to properly integrate the graphics here.**
 - Asset no longer in use so this is now public and are free to use.
 - Credit to Mudskip.
 
@@ -127,8 +127,8 @@ static void CB2_InitBuyMenu(void)
 static void BuyMenuDecompressBgGraphics(void)
 {
 -    DecompressAndCopyTileDataToVram(1, gShopMenu_Gfx, 0x3A0, 0x3E3, 0);
-+    DecompressAndCopyTileDataToVram(1, gShopMenu_Gfx, 0x3A0, 4, 0);
-+    DecompressAndCopyTileDataToVram(2, gShopMenu_ScrollGfx, 160, 0, 0);
++    DecompressAndCopyTileDataToVram(1, gShopMenu_Gfx, 0, 4, 0);
++    DecompressAndCopyTileDataToVram(2, gShopMenu_ScrollGfx, 0, 0, 0);
     LZDecompressWram(gShopMenu_Tilemap, sShopData->tilemapBuffers[0]);
 +    LZDecompressWram(gShopMenu_ScrollTilemap, sShopData->tilemapBuffers[1]);
     LoadCompressedPalette(gShopMenu_Pal, BG_PLTT_ID(12), PLTT_SIZE_4BPP);
