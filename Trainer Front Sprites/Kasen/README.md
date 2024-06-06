@@ -1,6 +1,10 @@
 ## Assored OW Trainers
 - Please credit Kasen
 
+- There are 2 versions of hex maniac; one is larger with more detail, the other is smaller and fits better in with the vanilla trainers
+
+![example.png](example.png)
+
 ![bw2_iris.png](bw2_iris.png)
 
 ![hexmaniac_frontpic.png](hexmaniac_frontpic.png)
