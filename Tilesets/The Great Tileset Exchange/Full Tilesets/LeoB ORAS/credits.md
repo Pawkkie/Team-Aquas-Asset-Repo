@@ -13,6 +13,7 @@ A few observations:
 - When you open Porymaps, all towns are found in the "gMapGroup_Towns and Routes".
 - The only exception is for the Battle Frontier overworld tilesets. This one is found inside the "gMapGroup_SpecialArea".
 - Don't forget to add the Door Animations from the graphics\door_anims directory to your Pokemon Emerald Decomp graphics\door_anims directory! (I made subtle changes to the Door Animations to match the new buildings)
+- And feel free to explore the "paths" and "smartpaths" using other palettes, so the Yellow tone won't give too much contrast in your romhack.
 
 I made this tileset because I really love how Gamefreak created vibrant colors for the Omega Ruby and Alpha Sapphire remakes. Everything from the colors, to the pixel art was inspired by how they made ORAS in first place. It looks amazing in both LCD and OLED screens, and it is a nice way to relieve your nostalgia from those awesome games.
 
