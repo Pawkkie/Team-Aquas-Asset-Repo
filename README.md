@@ -46,6 +46,10 @@ There are two main ways of submitting assets, pull requests and Discord submissi
 
 If you don't know what a pull request is or are unfamiliar with GitHub, please read the repository's [wiki](https://github.com/Pawkkie/Team-Aquas-Asset-Repo/wiki) to get set up!
 
+![TAAR_Updates](https://github.com/Pawkkie/Team-Aquas-Asset-Repo/assets/61265402/92f1fd65-54e1-45c8-87fb-babeee896496)
+
+It is very time consuming to manually add everything to the asset repository, so please PR if you're able to do so!
+
 ## Pull Requests
 Fork this repository, and submit any assets you have / find / make as pull requests. Please ensure that you match the repository's organizational structure, and **_include README.md's crediting the original creators_** as applicable.
 
