@@ -1,4 +1,4 @@
-## Volcano
+## Volcano Secondary
 - Please credit all names listed in credits.md for use
 - Please also credit Rahtak for the insertable reformat and submission
 
