@@ -8,6 +8,8 @@ This folder is for individual tiles and full tilesets that are:
 
 This is the companion folder to The Great Tileset Exchange [wiki page](https://github.com/Pawkkie/Team-Aquas-Asset-Repo/wiki/The-Great-Tileset-Exchange), where contributors work together as a community to improve the tilesets that are available for all of us to use. The wiki page also covers how to export and import Exchange tilesets into porymap.
 
+The VAST majority of these tilesets are built to be compatible with *triple layer metatiles*, which you can get setup [here](https://github.com/pret/pokeemerald/wiki/Triple-layer-metatiles).
+
 If you're submitting assets for the Exchange, please put them in here!
 
 ## Other Tilesets
