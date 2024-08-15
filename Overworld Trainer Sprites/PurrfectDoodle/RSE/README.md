@@ -4,6 +4,8 @@ Please credit PurrfectDoodle (Eva) :)
 
 ## Wally (green hair)
 
+![wally](./wally.png)
+
 Wally should have green hair!! #boycottBrunetteWally
 
-![wally](./wally.png)
+![ingame](./readme-img/example.png)
