@@ -2,7 +2,7 @@
 
 ## What is Team Aqua's Asset Repo?
 
-This is a collection of **_free to use_** assets that are intended to be used for Generation 3 Pokémon decomp hacking, initially created and managed by members of the [Team Aqua's Hideout](https://discord.gg/sNNCZxcXnA) Discord server. Note that we recommend forking this repository so you can easily receive and submit new assets; see the [wiki](https://github.com/Pawkkie/Team-Aquas-Asset-Repo/wiki) for instructions.
+This is a collection of **_free to use_** assets that are intended to be used for Generation 3 Pokémon decomp hacking, initially created and managed by members of the [Team Aqua's Hideout](https://discord.gg/hX3a63RYzZ) Discord server. Note that we recommend forking this repository so you can easily receive and submit new assets; see the [wiki](https://github.com/Pawkkie/Team-Aquas-Asset-Repo/wiki) for instructions.
 
 Want to contribute? Ping @Pawkkie in the Discord!
 
@@ -46,6 +46,10 @@ There are two main ways of submitting assets, pull requests and Discord submissi
 
 If you don't know what a pull request is or are unfamiliar with GitHub, please read the repository's [wiki](https://github.com/Pawkkie/Team-Aquas-Asset-Repo/wiki) to get set up!
 
+![TAAR_Updates](https://github.com/Pawkkie/Team-Aquas-Asset-Repo/assets/61265402/92f1fd65-54e1-45c8-87fb-babeee896496)
+
+It is very time consuming to manually add everything to the asset repository, so please PR if you're able to do so!
+
 ## Pull Requests
 Fork this repository, and submit any assets you have / find / make as pull requests. Please ensure that you match the repository's organizational structure, and **_include README.md's crediting the original creators_** as applicable.
 
@@ -54,7 +58,7 @@ Please consider including preview images / soundbites of your assets in the READ
 A sample file, README_sample.md, has been provided for reference.
 
 ## Discord Submissions
-Send your asset or a link to it to the appropriate channel in [the Discord server](https://discord.gg/sNNCZxcXnA), and indicate that you'd like it added to the repository. One of the maintainers will add it the next time they're available to do so. Note that you must supply the following submission criteria:
+Send your asset or a link to it to the appropriate channel in [the Discord server](https://discord.gg/hX3a63RYzZ), and indicate that you'd like it added to the repository. One of the maintainers will add it the next time they're available to do so. Note that you must supply the following submission criteria:
 - Original creator of the source material
 - Your preferred username, if this is your asset / your edit / recolour / resize / etc.
 - Type of asset (song, overworld sprite, trainer portrait, etc.)
