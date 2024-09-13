@@ -6,6 +6,8 @@ This is a collection of **_free to use_** assets that are intended to be used fo
 
 Want to contribute? Ping @Pawkkie in the Discord!
 
+Note that we also have a **significant** wiki of tutorials, feature branches and more, be sure to check it out!
+
 ## What sort of assets?
 Anything and everything that might be of interest to romhackers! This includes but is not limited to:
 - Feature Branches, on the [wiki](https://github.com/Pawkkie/Team-Aquas-Asset-Repo/wiki/Feature-Branches)
