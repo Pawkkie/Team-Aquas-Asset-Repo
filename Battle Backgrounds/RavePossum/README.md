@@ -155,7 +155,7 @@ case MAP_BATTLE_SCENE_SIDNEY:
 + const u32 gBattleTerrainTilemap_Plain[] = INCBIN_U32("graphics/battle_terrain/plain/map.bin.lz");
 ```
 
-## src/pokemon_debug.c (RHH pokeemerald-expansion ONLY)
+## src/pokemon_sprite_visualizer.c (RHH pokeemerald-expansion ONLY)
 LoadBattleBg():
 ```diff
 ...
