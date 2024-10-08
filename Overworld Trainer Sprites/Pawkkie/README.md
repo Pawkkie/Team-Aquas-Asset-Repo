@@ -6,6 +6,7 @@
 
 ![hex_maniac.png](hex_maniac.png)
 ![leader_elesa.png](leader_elesa.png)
+![leader_jasmine.png](leader_jasmine.png)
 
 ## Pokemon Palladium recolour / reformats
 - Overworld sprites
