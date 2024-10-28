@@ -6,5 +6,5 @@ The player is placed on top of the surf OW sprite, using our C-injection reposit
 Originally intended for use with Fire Red
 
 ## Example:
-![Image title](example.gif)
+![Surfing Pikachu](example.gif)
 
