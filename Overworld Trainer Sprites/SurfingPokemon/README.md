@@ -8,3 +8,4 @@ Originally intended for use with Fire Red
 ## Example:
 ![Surfing Pikachu](example.gif)
 
+**Please note that some Dynamic Surf OW use 64x64 instead of 32x32 sprites**
