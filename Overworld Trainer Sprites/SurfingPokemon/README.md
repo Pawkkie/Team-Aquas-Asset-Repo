@@ -9,3 +9,11 @@ Originally intended for use with Fire Red
 ![Surfing Pikachu](example.gif)
 
 **Please note that some Dynamic Surf OW use 64x64 instead of 32x32 sprites**
+
+## Edge Case
+![Kingler](kingler.gif)
+
+Some Pokemon may support a unique east/west (left/right) facing sprite!
+Kingler has asymmetrical claws, so in order to keep it biologically accurate, our project added support!
+
+This will mean its sprite differs from the other sprites included in this folder.
