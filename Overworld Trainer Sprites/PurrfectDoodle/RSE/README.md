@@ -8,4 +8,12 @@ Please credit PurrfectDoodle (Eva) :)
 
 Wally should have green hair!! #boycottBrunetteWally
 
-![ingame](./readme-img/example.png)
+![ingame](./readme-img/wally.png)
+
+## Sinnoh Gym Leaders
+
+![gym leaders](./readme-img/sinnoh_leaders.png)
+
+## DP Dawn
+
+![dawn](./readme-img/dawn.png)
