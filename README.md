@@ -2,7 +2,7 @@
 
 ## What is Team Aqua's Asset Repo?
 
-This is a collection of **_free to use_** assets that are intended to be used for Generation 3 Pokémon decomp hacking, initially created and managed by members of the [Team Aqua's Hideout](https://discord.gg/hX3a63RYzZ) Discord server. Note that we recommend forking this repository so you can easily receive and submit new assets; see the [wiki](https://github.com/Pawkkie/Team-Aquas-Asset-Repo/wiki) for instructions.
+This is a collection of **_free to use_** assets that are intended to be used for Generation 3 Pokémon decomp hacking, initially created and managed by members of the [Team Aqua's Hideout](https://discord.gg/hX3a63RYzZ) Discord server. Note that we recommend forking this repository so you can easily receive and submit new assets; see the [wiki](https://github.com/Pawkkie/Team-Aquas-Asset-Repo/wiki) for instructions. All assets are both free to use and edit / iterate on by default, but if any assets specifically mention *not* being free to edit, please respect the author's wishes.
 
 Want to contribute? Ping @Pawkkie in the Discord!
 
