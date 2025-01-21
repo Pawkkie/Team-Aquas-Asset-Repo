@@ -11,3 +11,11 @@
 
 ![spritesheet](./nurse_m.png)
 <img width="35" alt="nurse_m" src="https://github.com/user-attachments/assets/30c854b0-7426-4c55-a632-6aa14beaa3df" />
+
+## Officer M & F
+
+![spritesheet](./officer_m.png)
+<img width="35" alt="officer_m" src="https://github.com/user-attachments/assets/30c854b0-7426-4c55-a632-6aa14beaa3df" />
+
+![spritesheet](./officer_f.png)
+<img width="35" alt="officer_f" src="https://github.com/user-attachments/assets/30c854b0-7426-4c55-a632-6aa14beaa3df" />
