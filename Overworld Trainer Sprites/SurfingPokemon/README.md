@@ -28,3 +28,13 @@ Some Pokemon may also support 4-frame animations, to provide a smoother transiti
 ### Pokemon with a Raft
 Some Pokemon are Little Guys™, and we've given them a raft to tug the player along on
 ![Shiny Barboach with a raft](_README_pics/shiny_barboach_with_raft.png)
+
+---
+
+## "Various Artists (HGSS Edits)" folder
+Various artists contributed edited sprites [Gen 1](https://www.spriters-resource.com/ds_dsi/pokemonheartgoldsoulsilver/sheet/26794/), [Gen 2](https://www.spriters-resource.com/fullview/26795/), and [Gen 3](https://www.spriters-resource.com/ds_dsi/pokemonheartgoldsoulsilver/sheet/26795/) from the Following Pokemon feature of Heart Gold and Soul Silver. Please let me know if you've contributed, and would like specific credit for specific Pokemon; This is rabbit hole to unravel, but here are the names we could verify:
+- [Ghoulslash](https://github.com/ghoulslash/dynamic_surf_ows)
+- [grunt-lucas](https://github.com/grunt-lucas/pokeemerald-expansion/tree/surfable/graphics/object_events/pics/pokemon/surfable)
+- [Slawter666](https://github.com/Slawter666/pokeemerald/blob/surfable/graphics/event_objects/pics/pokemon/surfable/080_slowbro.png)
+- [Surskitty](https://github.com/surskitty/pokeemerald/tree/surfable/graphics/object_events/pics/pokemon/surfable)
+- [wally-217](https://github.com/zacwalton/pokeemerald-expansion/tree/master/graphics/object_events/pics/pokemon/surfable)
