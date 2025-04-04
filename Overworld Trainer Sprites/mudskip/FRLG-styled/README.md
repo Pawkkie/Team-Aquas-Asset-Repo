@@ -1,8 +1,11 @@
-## Custom RSE-styled Kanto Overworld Sprites
+## Custom FRLG-styled Overworld Sprites
 - Overworld Sprites
 - Mudskip
 
-The spritesheets below are just a preview, the sprites are formatted individually in their subfolders.
+So far, this folder contains:
+ - Protagonists: Sun/Moon Elio (Walking and Running).
+
+The combined spritesheets below is just a preview, the sprites are formatted individually in their subfolders.
 
 ### NOTE:
 - Sprites with `_extended` in their file name has 1 extra unique facing frames, and is for sprites that is asymmetrical.
