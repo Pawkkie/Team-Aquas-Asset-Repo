@@ -1,0 +1,5 @@
+LU-HO's animations editor is what i used to import/export animations.
+you have to be careful, because the tool is compatible with amap1.95, not amap1.92
+both amap versions read colors differently. if you ever tryied exporting/importing tilesets between these versions and got them messed up, that's why.
+
+animEditor reads colors the same way amap1.95 does. So if you have an animation palette in .act, for example, and need to import it with animEditor, you better use 1.95 to import it first.

@@ -1,0 +1,25 @@
+COMMON:
+	FIRE STONE ----> 4x Burnt Wood
+	WATER STONE ---> 4x Sea Shell
+	THUNDER STONE -> 4x Electric Stone
+	LEAF STONE ----> 4x Berry Tree Seed
+
+UNCOMMON:
+	ICE STONE --> 3x Snowflake,    1x Piece of Fur
+	SUN STONE --> 3x Star Residue, 1x Sunflower
+	MOON STONE -> 3x Star Residue, 1x Lunar Lily
+
+	WISE STONE --------> 2x Students Book, 1x Posture Kit, 1x Parchment
+	STRENGTH STONE ----> 2x Students Book, 1x Posture Kit, 1x Metal Coat
+
+RARE:
+	DUSK STONE --> 2x Candles,     1x Old Doll,  1x Cursed Stone
+	DAWN STONE --> 2x Weird Spoon, 1x Parchment, 1x Rare Stone
+
+	SHINY STONE -> 2x Crystal Mirror, 1x Rainbow Feather, 1x Vitality Flower
+
+2.0==============================================
+FOR BETA:
+Snowflake, Mirror, Dead Flower, Dream Flower, Old Doll -> Lighthouse Key
+Berry Seed (hidden grotoes), Broken Viola -> Violin
+Weird Spoon (outside Esmeralda Hotel), Gemstone (crystal cave)-> PowerPlant Card
