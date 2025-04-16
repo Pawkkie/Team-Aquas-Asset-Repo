@@ -21,6 +21,10 @@
 
 ![korrina.png](korrina.png)
 
+![gen4_breeder_f.png](gen4_breeder_f.png)
+
+![gen4_breeder_m.png](gen4_breeder_m.png)
+
 ## Korrina Changes
 
 You'll need custom animation for the overworld object. Also remember to se the anims in `object_event_graphics_info.h` to `sAnimTable_Korrina`. Here's an example using the default walking speed.

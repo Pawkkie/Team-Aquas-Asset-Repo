@@ -1,0 +1,19 @@
+nodes are color coded:
+green ones only accesible after cut HM1.
+blue ones are water routes HM SURF.
+dark blue is dive routes.
+red is after obtaining HM SACRED FIRE, a nerfed version of the sacred fire move. would open the entrance to a bunch of sealed caves.
+brown is rock climb.
+
+some flow graphs represent region maps:
+OHANA FARM
+NENDIOS
+NORTH NENDIOS
+
+other ones represent sequence of events or just an arrangement of ideas.
+
+not everything is in these flow maps. late-game events (like the main apocalypse, are not quite well described)
+
+if you are going to try to sew the story together through the nodes, a recommend reading the story.txt file first.
+
+i used articy:draft to make them.

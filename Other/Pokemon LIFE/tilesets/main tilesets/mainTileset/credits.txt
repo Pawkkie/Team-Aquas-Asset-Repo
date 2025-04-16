@@ -1,0 +1,14 @@
+main 16x16 grass tile is by wesleyFG ("bw nature tileset")
+
+wood sign - princeLegendario ("petalburg city tileset")
+white fence - by ultimoSpriter ("niscellaneous b w tiles")
+mountain rock tiles - by ultimo spriter ("mountain rock tiles version 1")
+grass mountain water border tiles - by ultimo spriter ("bw water tiles")
+
+trees from "pokemon bw2 season tiles" by shiney570
+
+sand tiles by Moontik/Tsuka ("golden rips HGSS")
+
+water animation & beach shore animations ripped by me (no credit needed)
+
+rest is gamefreak

@@ -1,0 +1,8 @@
+1 poison
+2 fighting
+3 flying
+4 grass
+5 ground/rock
+6 psychic
+7 fairy
+8 steel

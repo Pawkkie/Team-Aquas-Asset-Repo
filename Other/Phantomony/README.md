@@ -1,0 +1,1 @@
+Adapted from the Oak Sprite from The Pit by mudskip, and the Team Rocket sprite from seiyouh on DeviantArt

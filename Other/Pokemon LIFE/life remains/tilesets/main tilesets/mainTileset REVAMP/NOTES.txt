@@ -1,0 +1,9 @@
+this is the tileset I was going to use in the final revamp of the game. i ended up only making a city (with 2 versions) and a foggy route before stopping development.
+different from the first mainTileset, this one was made from scratch at once, so it's much more organized (usually hacks with custom tiles are very frankenstein like).
+
+i believe you can't get more b/w/b2/w2 than this in the gba engine.
+with some palette changes, you can get any season you want!
+feel free to use it in any way.
+
+check general credits.
+

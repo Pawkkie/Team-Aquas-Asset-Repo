@@ -1,0 +1,5 @@
+gym tile from "custom tileset" by Boomxbig
+ornamental bush from "miscellaneous bw tiles" by UltimoSpriter
+floor tile from "bunch o free tiles" by Magiscarf
+
+rest is gameferak

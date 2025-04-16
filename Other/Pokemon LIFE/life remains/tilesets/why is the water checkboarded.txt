@@ -1,0 +1,5 @@
+because it makes it easier to map. the water tile is 32x32, so it's easy to make mistakes.
+and it's vry hard to see these mistakes, because the 4 16x16 tiles are all very very similar (they are also covered by trees and mountains a lot of the time).
+with a checkboard on top of them, the mapping mistakes are much more evident.
+
+when the game runs, the animation is loaded instead/on top of the checkboard, so it can't be seen in-game
