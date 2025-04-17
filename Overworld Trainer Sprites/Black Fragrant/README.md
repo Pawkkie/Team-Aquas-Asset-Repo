@@ -2,11 +2,22 @@
 
 Credits to Black Fragrant and their Johto themed hack, [Pokemon FireGold](https://www.pokecommunity.com/threads/pok%C3%A9mon-fire-gold-1-4.473130/)!
 
-- ![falkner](https://github.com/user-attachments/assets/34a90876-e9fb-43c9-b687-4064a3dad0a3)
-- ![bugsy](https://github.com/user-attachments/assets/345c1530-40bb-4139-8c22-9985553b5415)
-- ![whitney](https://github.com/user-attachments/assets/025d679f-44d4-4ac5-a908-01a5b803edf3)
-- ![morty](https://github.com/user-attachments/assets/6e3969c3-1cc8-49d5-8dfe-67595ae16a08)
-- ![chuck](https://github.com/user-attachments/assets/beef91ce-6152-4c6f-b0bb-7806a2a6cf4e)
-- ![jasmine](https://github.com/user-attachments/assets/8f0aa020-bd31-475f-a525-8a6b809c4baf)
-- ![pryce](https://github.com/user-attachments/assets/2685330e-20d8-4842-9c77-19d6ce41359e)
-- ![clair](https://github.com/user-attachments/assets/b5784f61-a61f-4328-a43a-9fd2eb0ae413)
+### Gym Leaders
+- ![falkner](https://raw.githubusercontent.com/Pawkkie/Team-Aquas-Asset-Repo/main/Overworld%20Trainer%20Sprites/Black%20Fragrant/falker.png)
+- ![bugsy](https://raw.githubusercontent.com/Pawkkie/Team-Aquas-Asset-Repo/main/Overworld%20Trainer%20Sprites/Black%20Fragrant/bugsy.png)
+- ![whitney](https://raw.githubusercontent.com/Pawkkie/Team-Aquas-Asset-Repo/main/Overworld%20Trainer%20Sprites/Black%20Fragrant/whitney.png)
+- ![morty](https://raw.githubusercontent.com/Pawkkie/Team-Aquas-Asset-Repo/main/Overworld%20Trainer%20Sprites/Black%20Fragrant/morty.png)
+- ![chuck](https://raw.githubusercontent.com/Pawkkie/Team-Aquas-Asset-Repo/main/Overworld%20Trainer%20Sprites/Black%20Fragrant/chuck.png)
+- ![jasmine](https://raw.githubusercontent.com/Pawkkie/Team-Aquas-Asset-Repo/main/Overworld%20Trainer%20Sprites/Black%20Fragrant/soldier.png)
+- ![pryce](https://raw.githubusercontent.com/Pawkkie/Team-Aquas-Asset-Repo/main/Overworld%20Trainer%20Sprites/Black%20Fragrant/jasmine.png)
+- ![clair](https://raw.githubusercontent.com/Pawkkie/Team-Aquas-Asset-Repo/main/Overworld%20Trainer%20Sprites/Black%20Fragrant/clair.png)
+
+### Elite Four (new)
+- ![will](https://raw.githubusercontent.com/Pawkkie/Team-Aquas-Asset-Repo/main/Overworld%20Trainer%20Sprites/Black%20Fragrant/will.png)
+- ![karen](https://raw.githubusercontent.com/Pawkkie/Team-Aquas-Asset-Repo/main/Overworld%20Trainer%20Sprites/Black%20Fragrant/karen.png)
+
+### Rocket Admins
+- ![archer](https://raw.githubusercontent.com/Pawkkie/Team-Aquas-Asset-Repo/main/Overworld%20Trainer%20Sprites/Black%20Fragrant/archer.png)
+- ![ariana](https://raw.githubusercontent.com/Pawkkie/Team-Aquas-Asset-Repo/main/Overworld%20Trainer%20Sprites/Black%20Fragrant/ariana.png)
+- ![petrel](https://raw.githubusercontent.com/Pawkkie/Team-Aquas-Asset-Repo/main/Overworld%20Trainer%20Sprites/Black%20Fragrant/petrel.png)
+- ![proton](https://raw.githubusercontent.com/Pawkkie/Team-Aquas-Asset-Repo/main/Overworld%20Trainer%20Sprites/Black%20Fragrant/proton.png)

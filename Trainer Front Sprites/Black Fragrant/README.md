@@ -2,11 +2,22 @@
 
 Credits to Black Fragrant and their Johto themed hack, [Pokemon FireGold](https://www.pokecommunity.com/threads/pok%C3%A9mon-fire-gold-1-4.473130/)!
 
-- ![falkner](https://github.com/user-attachments/assets/e5c9873d-c96f-4e35-96fa-b5fd5b3ccd6f)
-- ![bugsy](https://github.com/user-attachments/assets/83853ad5-8e55-4f76-93a2-931fa1bbea83)
-- ![whitney](https://github.com/user-attachments/assets/c03d3b26-2d2d-41a7-bcc3-3315daff26f8)
-- ![morty](https://github.com/user-attachments/assets/78d6cf74-afb5-4d0b-a7ba-666ce39e547a)
-- ![chuck](https://github.com/user-attachments/assets/0af9b804-aa48-4ee3-ba02-a6cf7f8e5412)
-- ![jasmine](https://github.com/user-attachments/assets/97d7ecba-bfb5-4dbf-9b27-8a3d16d57c8c)
-- ![pryce](https://github.com/user-attachments/assets/e075d9ba-6640-4cd9-add5-f8706241b6ec)
-- ![clair](https://github.com/user-attachments/assets/5a382c0a-4d01-47e1-bac4-ff3c705a0fe1)
+### Gym Leaders
+- ![falkner](https://raw.githubusercontent.com/Pawkkie/Team-Aquas-Asset-Repo/main/Trainer%20Front%20Sprites/Black%20Fragrant/falker.png)
+- ![bugsy](https://raw.githubusercontent.com/Pawkkie/Team-Aquas-Asset-Repo/main/Trainer%20Front%20Sprites/Black%20Fragrant/bugsy.png)
+- ![whitney](https://raw.githubusercontent.com/Pawkkie/Team-Aquas-Asset-Repo/main/Trainer%20Front%20Sprites/Black%20Fragrant/whitney.png)
+- ![morty](https://raw.githubusercontent.com/Pawkkie/Team-Aquas-Asset-Repo/main/Trainer%20Front%20Sprites/Black%20Fragrant/morty.png)
+- ![chuck](https://raw.githubusercontent.com/Pawkkie/Team-Aquas-Asset-Repo/main/Trainer%20Front%20Sprites/Black%20Fragrant/chuck.png)
+- ![jasmine](https://raw.githubusercontent.com/Pawkkie/Team-Aquas-Asset-Repo/main/Trainer%20Front%20Sprites/Black%20Fragrant/soldier.png)
+- ![pryce](https://raw.githubusercontent.com/Pawkkie/Team-Aquas-Asset-Repo/main/Trainer%20Front%20Sprites/Black%20Fragrant/jasmine.png)
+- ![clair](https://raw.githubusercontent.com/Pawkkie/Team-Aquas-Asset-Repo/main/Trainer%20Front%20Sprites/Black%20Fragrant/clair.png)
+
+### Elite Four (new)
+- ![will](https://raw.githubusercontent.com/Pawkkie/Team-Aquas-Asset-Repo/main/Trainer%20Front%20Sprites/Black%20Fragrant/will.png)
+- ![karen](https://raw.githubusercontent.com/Pawkkie/Team-Aquas-Asset-Repo/main/Trainer%20Front%20Sprites/Black%20Fragrant/karen.png)
+
+### Rocket Admins
+- ![archer](https://raw.githubusercontent.com/Pawkkie/Team-Aquas-Asset-Repo/main/Trainer%20Front%20Sprites/Black%20Fragrant/archer.png)
+- ![ariana](https://raw.githubusercontent.com/Pawkkie/Team-Aquas-Asset-Repo/main/Trainer%20Front%20Sprites/Black%20Fragrant/ariana.png)
+- ![petrel](https://raw.githubusercontent.com/Pawkkie/Team-Aquas-Asset-Repo/main/Trainer%20Front%20Sprites/Black%20Fragrant/petrel.png)
+- ![proton](https://raw.githubusercontent.com/Pawkkie/Team-Aquas-Asset-Repo/main/Trainer%20Front%20Sprites/Black%20Fragrant/proton.png)
