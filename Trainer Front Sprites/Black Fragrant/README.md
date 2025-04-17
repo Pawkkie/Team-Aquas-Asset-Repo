@@ -1,6 +1,7 @@
 ## Trainer front sprites for the Johto Gym Leaders!
 
 Credits to Black Fragrant and their Johto themed hack, [Pokemon FireGold](https://www.pokecommunity.com/threads/pok%C3%A9mon-fire-gold-1-4.473130/)!
+Checkout their [DeviantArt](https://www.deviantart.com/rai211) page for more creations!
 
 ### Gym Leaders
 - ![falkner](https://raw.githubusercontent.com/Pawkkie/Team-Aquas-Asset-Repo/main/Trainer%20Front%20Sprites/Black%20Fragrant/falkner.png)
