@@ -5,7 +5,7 @@
 
 ![example.png](example.png)
 
-![bw2_iris.png](bw2_iris.png)
+![bw2_iris.png](iris_bw2.png)
 
 ![hexmaniac_frontpic.png](hexmaniac_frontpic.png)
 
