@@ -13,6 +13,9 @@ Checkout their [DeviantArt](https://www.deviantart.com/rai211) page for more cre
 - ![pryce](pryce.png)
 - ![clair](clair.png)
 
+### Janine
+- ![janine](janine.png)
+
 ### Elite Four (new)
 - ![will](will.png)
 - ![karen](karen.png)
