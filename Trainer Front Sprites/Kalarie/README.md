@@ -7,5 +7,5 @@
 - ![damian](damian.png)
 - ![giselle](giselle.png)
 - ![mandi](mandi.png)
-- ![otoshi](ayotoshia.png)
+- ![otoshi](otoshi.png)
 - ![ritchie](ritchie.png)
